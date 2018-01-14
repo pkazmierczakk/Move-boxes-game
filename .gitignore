@@ -1,0 +1,4 @@
+.idea/*
+remove.txt
+CMakeLists.txt
+cmake-build-debug
