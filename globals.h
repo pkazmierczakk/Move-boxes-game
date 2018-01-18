@@ -6,8 +6,8 @@
 
 #define MAP_SIZE_X      20
 #define MAP_SIZE_Y      15
-#define DIR_WITH_MAPS   "../maps/"
-#define FILE_WITH_SCORE "../score.txt"
+#define DIR_WITH_MAPS   "maps/"
+#define FILE_WITH_SCORE "score.txt"
 #define CLEAR_COMMAND   "clear"
 
 // Markings on the map
